@@ -111,5 +111,17 @@
       "configurationFormat" : "yaml",
       "serverPort" : 8080
     }
+  }, {
+    "module" : "mysql",
+    "date" : "2024-03-25T16:49:25.566216Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "configurationFormat" : "yaml",
+      "serverPort" : 8080
+    }
   } ]
 }

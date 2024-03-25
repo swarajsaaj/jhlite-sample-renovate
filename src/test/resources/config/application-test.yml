@@ -7,3 +7,10 @@ logging:
 spring:
   main:
     banner-mode: 'off'
+  datasource:
+    driver-class-name: org.testcontainers.jdbc.ContainerDatabaseDriver
+    username: jhipsterSampleApplication
+    hikari:
+      maximum-pool-size: 2
+    url: jdbc:tc:mysql:8.3.0:///jhipsterSampleApplication
+    password: ''
