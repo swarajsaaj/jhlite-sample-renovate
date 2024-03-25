@@ -20,7 +20,7 @@
   ],
   "docker-compose": {
     "fileMatch": [
-      "^src/main/docker/[^/]*\\.ya?ml$"
+      "^src/main/docker/[^/]*\\.y?ml$"
     ]
   }
 }
