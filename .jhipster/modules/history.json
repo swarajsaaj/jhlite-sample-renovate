@@ -87,5 +87,29 @@
       "indentSize" : 2,
       "configurationFormat" : "yaml"
     }
+  }, {
+    "module" : "maven-wrapper",
+    "date" : "2024-03-25T16:42:31.345464Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "configurationFormat" : "yaml",
+      "serverPort" : 8080
+    }
+  }, {
+    "module" : "dockerfile-maven",
+    "date" : "2024-03-25T16:42:31.353125Z",
+    "properties" : {
+      "packageName" : "com.mycompany.myapp",
+      "projectName" : "JHipster Sample Application",
+      "baseName" : "jhipsterSampleApplication",
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "configurationFormat" : "yaml",
+      "serverPort" : 8080
+    }
   } ]
 }
