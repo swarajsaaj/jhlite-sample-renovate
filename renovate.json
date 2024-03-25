@@ -10,8 +10,8 @@
   ],
   "prHourlyLimit": 20,
   "enabledManagers": [
-    "maven-wrapper",
-    "gradle-wrapper",
+    "maven",
+    "gradle",
     "docker-compose",
     "npm"
   ],
