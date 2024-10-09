@@ -49,7 +49,7 @@
     "prettier": "3.2.5",
     "prettier-plugin-gherkin": "2.2.1",
     "prettier-plugin-java": "2.6.0",
-    "prettier-plugin-packagejson": "2.4.12"
+    "prettier-plugin-packagejson": "2.5.3"
   },
   "dependencies": {
     "@angular/animations": "17.3.1",
